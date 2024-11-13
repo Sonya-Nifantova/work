@@ -1,0 +1,5 @@
+a=int(input("Введите число :"))
+s=int(input("Введите число :"))
+print(f"{a}+{s}={a+s}")
+print(f"{a}-{s}={a-s}")
+print(f"{a}*{s}={a*s}")
