@@ -1,0 +1,5 @@
+a=int(input("Введите число :"))
+d=int(input("Введите число :"))
+n=int(input("Введите число :"))
+print(f"{a^n^-1+d}")
+print(f"{a^1+d*(n-1)}")
